@@ -9,4 +9,5 @@ Kullanıcıdan alınan 3 kenar bilgisi ile üçgen alanını hesaplar.
 formülleri ile hesaplanmıştır.
 
 
+
 https://app.patika.dev/moduller/java101/pratik-hipotenus-bulma
